@@ -1,4 +1,4 @@
 # Ethical Deep Learning via Privacy-Protected Framework
-## Encrpted Facial Images
-After a facial image is encrypted, the image become a "chaotic pattern" and can barely recognizable by naked eyes.
+## Deep learning with Partial Homomorphic Encryption
+.
 
