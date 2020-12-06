@@ -30,3 +30,8 @@ Fig.4 AIoT-oriented Private Facial Diagnosis Framework
 
 ### Evaluation on DBS via Facial Diagnosis
 TBA
+
+
+### References
+[1]	R. Jiang, et al, "Private Facial Diagnosis as an AIoT Service over Parkinson's DBS Treatment," under review. 
+
