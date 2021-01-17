@@ -1,4 +1,4 @@
-# Private Deep Learning Services via Partial Homomorphic Encryption
+# Private Deep Learning with Partial Homomorphic Encryption
 ## Homomorphic Encryption
 
 TBA
